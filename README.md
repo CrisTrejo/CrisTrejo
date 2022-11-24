@@ -17,10 +17,10 @@ I am interested in developing myself in a company that allows me to strengthen a
   
   
 
-- 🌱 I’m currently learning typescript and AWS  
+- 🌱 I’m currently learning typescript and PHP  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to PERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
