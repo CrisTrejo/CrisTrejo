@@ -7,7 +7,7 @@
 
 E-mail: cristrejolavalle@gmail.com
 
-Full Stack Developer, English level C1, passion for videogames, experience creating Web applications. Using the PERN Stack (PostgreSQL, Express, ReactJs, NodeJs) to generate scalable and customizable projects. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, SQL.
+I'm a Full Stack Developer,my english level is C1, i have passion for videogames and experience creating Web applications. Using the PERN Stack (PostgreSQL, Express, ReactJs, NodeJs) to generate scalable and customizable projects. I have knowledge in technologies such as JavaScript, React.js, Node.Js, PostgreSQL, CSS, HTML, SQL.
 I am interested in developing myself in a company that allows me to strengthen and apply the knowledge that I am acquiring and thus also have the possibility of sharing values ​​and growing as a professional.
 
 </div>  
