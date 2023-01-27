@@ -17,7 +17,7 @@ I am interested in developing myself in a company that allows me to strengthen a
   
   
 
-- 🌱 I’m currently learning typescript and PHP  
+- 🌱 I’m currently learning mySql and PHP  
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
